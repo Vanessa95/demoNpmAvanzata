@@ -1,0 +1,24 @@
+{
+  "name": "demonpm",
+  "version": "1.0.0",
+  "description": "erercitazione sulla demo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanessa95/demoNpmAvanzata.git"
+  },
+  "keywords": [
+    "npm",
+    "JavaScript",
+    "Git"
+  ],
+  "author": "Vanessa Militello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanessa95/demoNpmAvanzata/issues"
+  },
+  "homepage": "https://github.com/Vanessa95/demoNpmAvanzata#readme"
+}
